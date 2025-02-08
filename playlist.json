@@ -37,6 +37,13 @@
           "image_file": "ad5.png",
           "image_hash": "5e31edca1e5b344863c2e2cf27afb7567a29d344fed45c8f5780c19ab7b86116",
           "duration_seconds": 10
+        },
+       {
+          "slot_id": "6",
+          "image_url": "https://vppillai.github.io/testRepo/advert1.jpg",
+          "image_file": "advert1.jpg",
+          "image_hash": "6497c59b7aa4ed0c762aa7cac8e4824a88aff4eee6122f25ecb3069c7965db95",
+          "duration_seconds": 10
         }
       ]
     }
