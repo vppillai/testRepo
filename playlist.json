@@ -63,10 +63,11 @@
       },
       {
         "slot_id": "9",
-        "image_url": "https://vppillai.github.io/testRepo/SampleVideo_1280x720_1mb.flv",
-        "image_file": "SampleVideo_1280x720_1mb.flv",
-        "image_hash": "61bcaf70a1758d1dc0f5eb8d8ce42b1b02ebb1f2d25795135331c340394b8c9d",
+        "image_url": "https://vppillai.github.io/testRepo/SampleVideo_1280x720_2mb.mp4",
+        "image_file": "SampleVideo_1280x720_2mb.mp4",
+        "image_hash": "6235017edb3f692d01308a2c1c35002ec41d00b3ac247f72ba5c646ae53b7f9e",
         "video": true,
+        "video_type": "video/mp4",
         "mute": true,
         "duration_seconds": 10
       }
