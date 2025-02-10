@@ -60,7 +60,18 @@
         "video": true,
         "video_type": "video/mp4",
         "duration_seconds": 10
-      }
+      },
+      {
+        "slot_id": "9",
+        "image_url": "https://vppillai.github.io/testRepo/SampleVideo_1280x720_1mb.flv",
+        "image_file": "SampleVideo_1280x720_1mb.flv",
+        "image_hash": "61bcaf70a1758d1dc0f5eb8d8ce42b1b02ebb1f2d25795135331c340394b8c9d",
+        "video": true,
+        "video_type": "video/x-flv",
+        "mute": true,
+        "duration_seconds": 10
+      },
+      
     ]
   }
 }
