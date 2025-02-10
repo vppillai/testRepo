@@ -18,6 +18,13 @@
           "duration_seconds": 10
         },
         {
+          "slot_id": "7",
+          "image_url": "https://vppillai.github.io/testRepo/advert2.jpg",
+          "image_file": "advert2.jpg",
+          "image_hash": "1afa7d651c0c2debe85c7bff745cf7365889065c3fed38ea7fdd98325da931f7",
+          "duration_seconds": 10
+        },
+        {
           "slot_id": "3",
           "image_url": "https://lh3.googleusercontent.com/pw/AP1GczOlxAsVdj5cZoCI56XNDsxiAyxMYJ1UOnUBIsg0nmPmVF1glGR3GP3MVzd9wErbcOqPTlWRnpq9noCEYTfGQHmQjutJF8x8uk5SH1rs18vdEKeC6umNWYrrItLUuoIrkJrNH2cBjg_lcNemGPzp897shQ=w1195-h610-s-no-gm?authuser=0",
           "image_file": "ad3.png",
