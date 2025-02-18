@@ -1,0 +1,76 @@
+{
+    "playlist": {
+      "repeat": true,
+      "id": "f78e54bd-97f6-4769-8461-de21ad017a3d",
+      "ads": [
+        {
+          "slot_id": "1",
+          "image_url": "https://vppillai.github.io/testRepo/space_playlist/ad1.jpg",
+          "image_file": "ad1.jpg",
+          "image_hash": "e6070fa9690ed52b6463c6533c1820032bb44a6f2cfae3d848a7fb921bffa9a9",
+          "duration_seconds": 3
+        },
+        {
+          "slot_id": "2",
+          "image_url": "https://vppillai.github.io/testRepo/space_playlist/ad2.jpg",
+          "image_file": "ad2.jpg",
+          "image_hash": "d6fb34adbb3eb2bfe7e6f2bbad551820bd58f6d1ce892075523af6ee12d5aa04",
+          "duration_seconds": 3
+        },
+        {
+          "slot_id": "3",
+          "image_url": "https://vppillai.github.io/testRepo/space_playlist/ad3.jpg",
+          "image_file": "ad3.jpg",
+          "image_hash": "951f4865d552a395191f3da25b760691532655a777b8d8cd7aacf4a3ea8ff51e",
+          "duration_seconds": 3
+        },
+        {
+          "slot_id": "4",
+          "image_url": "https://vppillai.github.io/testRepo/space_playlist/ad4.jpg",
+          "image_file": "ad4.jpg",
+          "image_hash": "9e07898deb3beb2ab31663fb124386cc215aba15759c8412c1ce1b7a7c5b8931",
+          "duration_seconds": 3
+        },
+        {
+          "slot_id": "5",
+          "image_url": "https://vppillai.github.io/testRepo/space_playlist/ad5.jpg",
+          "image_file": "ad5.jpg",
+          "image_hash": "260fc4a3165040aa136763af1fd5e6527dbd6ba71361f976f80cfe2b418cf856",
+          "duration_seconds": 3
+        },
+        {
+          "slot_id": "6",
+          "image_url": "https://vppillai.github.io/testRepo/space_playlist/ad6.jpeg",
+          "image_file": "ad6.jpeg",
+          "image_hash": "0762d63856b18de81e12a42e2f799a84245ca41d63a4826a97f4b63cd2676410",
+          "duration_seconds": 3
+        },
+        {
+          "slot_id": "7",
+          "image_url": "https://vppillai.github.io/testRepo/space_playlist/ad7.jpg",
+          "image_file": "ad7.jpg",
+          "image_hash": "5e6a31a4646a928b4234ef520859a307a9efda9fa14a4f2f38180cf3e969a2af",
+          "duration_seconds": 3
+        },
+        {
+          "slot_id": "8",
+          "image_url": "https://vppillai.github.io/testRepo/space_playlist/vid1.mp4",
+          "image_file": "vid1.mp4",
+          "image_hash": "c3a58905cf2a0dfbf70cb3839c7b6884d58c003496f603d6e9c78620024d09d2",
+          "video": true,
+          "video_type": "video/mp4",
+          "duration_seconds": 3
+        },
+        {
+          "slot_id": "9",
+          "image_url": "https://vppillai.github.io/testRepo/space_playlist/vid2.mp4",
+          "image_file": "vid2.mp4",
+          "image_hash": "664bcd031cf22d337bdd880698a3a67821e063a810d4898df9fffe2b923272b3",
+          "video": true,
+          "video_type": "video/mp4",
+          "mute": true,
+          "duration_seconds": 10
+        }
+      ]
+    }
+  }
