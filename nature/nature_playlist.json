@@ -1,75 +1,133 @@
 {
   "playlist": {
     "repeat": true,
-    "id": "f78e54bd-97f6-4769-8461-de21ad017a3d",
+    "id": "9a8f4d0c-1234-4e56-89ab-cdef01234567",
     "ads": [
       {
         "slot_id": "1",
-        "image_url": "https://lh3.googleusercontent.com/pw/AP1GczMGXvoHTwDfHfsCKwEpE2vqyb0HC0It0bqr1WtkDc3QIVOsHZNj4zw926VZK56fMWQvpI93JwuW4-TJ7CJODIxf0-U8pv_r8Qoa2A4JfSxB6Q5oko6HSQqN50uzDf2PWRXxNTKDoRPX1qhY1tJvhtMMww=w1810-h735-s-no-gm?authuser=0",
-        "image_file": "ad1.png",
-        "image_hash": "a5402c5964b25cac9ff017bfef21f340ef104a0864c2bc3c4fc3b5b6e4109ec4",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-ben-cheung-140183-715134.jpg",
+        "image_file": "pexels-ben-cheung-140183-715134.jpg",
+        "image_hash": "42db2f188650a65750cf055baf80a0d08cb4731c4676aef602e2beea1ccc5a0c",
         "duration_seconds": 3
       },
       {
         "slot_id": "2",
-        "image_url": "https://lh3.googleusercontent.com/pw/AP1GczMSYd7JGvhw-Yc8o1-ljB8aNGed1aL6rDugDC4FBZwI4jCVHHH1or1cMIOJPZ0V7vAnQ3pnt2agK2HvUYOm6KOhzHJKTJejiKhicVoZjFaIw6giYylXxqP4erd6HWHYCJ7NnC_xxcSt3WPGxXzWJFxWPw=w1871-h919-s-no-gm?authuser=0",
-        "image_file": "ad2.png",
-        "image_hash": "50c84d6f8a7f5224f92dfba9d93fae8d3df3843bf80064855e3b20271148ffe2",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-bri-schneiter-28802-346529.jpg",
+        "image_file": "pexels-bri-schneiter-28802-346529.jpg",
+        "image_hash": "714f9e668eee962a4bfea704398fab9d0a74fbfe3437f53d3a08ed7bb8bb84b4",
         "duration_seconds": 3
       },
       {
         "slot_id": "3",
-        "image_url": "https://vppillai.github.io/testRepo/advert2.jpg",
-        "image_file": "advert2.jpg",
-        "image_hash": "1afa7d651c0c2debe85c7bff745cf7365889065c3fed38ea7fdd98325da931f7",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-eberhardgross-1157970.jpg",
+        "image_file": "pexels-eberhardgross-1157970.jpg",
+        "image_hash": "ab1733db6daa90d9b0b2223c77eb8ca300e0cf30a9030fa77d1c750f28fe5a81",
         "duration_seconds": 3
       },
       {
         "slot_id": "4",
-        "image_url": "https://lh3.googleusercontent.com/pw/AP1GczOlxAsVdj5cZoCI56XNDsxiAyxMYJ1UOnUBIsg0nmPmVF1glGR3GP3MVzd9wErbcOqPTlWRnpq9noCEYTfGQHmQjutJF8x8uk5SH1rs18vdEKeC6umNWYrrItLUuoIrkJrNH2cBjg_lcNemGPzp897shQ=w1195-h610-s-no-gm?authuser=0",
-        "image_file": "ad3.png",
-        "image_hash": "1c0b1c1c83f2c0e42b305227a134e5a0c8fdfad16cc72b0a845d2887522d6135",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-eberhardgross-1302242.jpg",
+        "image_file": "pexels-eberhardgross-1302242.jpg",
+        "image_hash": "ea0c566e75a4eae6cb341dbe2f445e50fb928c5dfa7282429cd7a2ab573035ea",
         "duration_seconds": 3
       },
       {
         "slot_id": "5",
-        "image_url": "https://lh3.googleusercontent.com/pw/AP1GczNzDHwhBhm0DHuyi1e6eu4ZatuMJasecLGswZSd5QChcZt2XYx9kEPP3E-u_tISR0DRcr7gyv9LFAobJvp5CMc6YoFz14UJjn_XsQi_AuttmYUSL_xy5FPbOgauA980VswkmQktR9vNoWLvfes2CqqQ5Q=w1213-h477-s-no-gm?authuser=0",
-        "image_file": "ad4.png",
-        "image_hash": "8828a78a13ff6b62c1918fa577a04a748b6eda21bf992554be91998605eb3677",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-eberhardgross-1612351.jpg",
+        "image_file": "pexels-eberhardgross-1612351.jpg",
+        "image_hash": "0c897d60391a69b38df2e865807c8ee0e26379389bff60fcf2c548beb360390c",
         "duration_seconds": 3
       },
       {
         "slot_id": "6",
-        "image_url": "https://lh3.googleusercontent.com/pw/AP1GczO-ZQ17b0R3mW4NYSG9u1UpK2lx0cFK2RH75_MVV2BjzBxQDNzORG-duRQkesDzKLaEojy3oSSzGjR_Uku-f6Q3cNTn43Xg9pteWBkrpRVruKtqD1qNMsK-3tqRJ7lHWEciQ-bIX_JNp1WFmjbJM_UmCg=w1085-h667-s-no-gm?authuser=0",
-        "image_file": "ad5.png",
-        "image_hash": "5e31edca1e5b344863c2e2cf27afb7567a29d344fed45c8f5780c19ab7b86116",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-eberhardgross-1624255.jpg",
+        "image_file": "pexels-eberhardgross-1624255.jpg",
+        "image_hash": "85016e45080c06a37518b5c5494f4ee7bf452f9fa8d5de6dad2685b18905dcec",
         "duration_seconds": 3
       },
       {
         "slot_id": "7",
-        "image_url": "https://vppillai.github.io/testRepo/advert1.jpg",
-        "image_file": "advert1.jpg",
-        "image_hash": "6497c59b7aa4ed0c762aa7cac8e4824a88aff4eee6122f25ecb3069c7965db95",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-eberhardgross-443446.jpg",
+        "image_file": "pexels-eberhardgross-443446.jpg",
+        "image_hash": "e30f69662ed189894a7f4e4b060b9a76876e97565542af4deebc720e7a1d5d3b",
         "duration_seconds": 3
       },
       {
         "slot_id": "8",
-        "image_url": "https://vppillai.github.io/testRepo/SampleVideo_1280x720_1mb.mp4",
-        "image_file": "SampleVideo_1280x720_1mb.mp4",
-        "image_hash": "f25b31f155970c46300934bda4a76cd2f581acab45c49762832ffdfddbcf9fdd",
-        "video": true,
-        "video_type": "video/mp4",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-fabianreitmeier-707915.jpg",
+        "image_file": "pexels-fabianreitmeier-707915.jpg",
+        "image_hash": "ff94c01ad81fcc0f8aeaf72822082d310d60c49d68b6bbb5b7280328498ad7db",
         "duration_seconds": 3
       },
       {
         "slot_id": "9",
-        "image_url": "https://vppillai.github.io/testRepo/SampleVideo_1280x720_2mb.mp4",
-        "image_file": "SampleVideo_1280x720_2mb.mp4",
-        "image_hash": "6235017edb3f692d01308a2c1c35002ec41d00b3ac247f72ba5c646ae53b7f9e",
-        "video": true,
-        "video_type": "video/mp4",
-        "mute": true,
-        "duration_seconds": 10
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-minan1398-1406866.jpg",
+        "image_file": "pexels-minan1398-1406866.jpg",
+        "image_hash": "11d8b6b065837e2dc1b6237bf8d022a0e857b69ff1e553f24bb10887c4cbc0f2",
+        "duration_seconds": 3
+      },
+      {
+        "slot_id": "10",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-pixabay-206359.jpg",
+        "image_file": "pexels-pixabay-206359.jpg",
+        "image_hash": "3dee78384e0ccee7833bc933943fb9b5b3561dc677276ea56b7403b4537c7821",
+        "duration_seconds": 3
+      },
+      {
+        "slot_id": "11",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-pixabay-358532.jpg",
+        "image_file": "pexels-pixabay-358532.jpg",
+        "image_hash": "9b18fe5105db57437296f2fe0bf705d56fa15e399237ce30fc8a0614b67fb0c2",
+        "duration_seconds": 3
+      },
+      {
+        "slot_id": "12",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-pixabay-45853.jpg",
+        "image_file": "pexels-pixabay-45853.jpg",
+        "image_hash": "c46eddce3985d35c60a51782a0821758e6ac0acfd33c06e022b164a8686e1785",
+        "duration_seconds": 3
+      },
+      {
+        "slot_id": "13",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-pixabay-47334.jpg",
+        "image_file": "pexels-pixabay-47334.jpg",
+        "image_hash": "48e9886e395386d8fb153b5e84307723e6ab5b2fa1e28968b064f8ff2adce49a",
+        "duration_seconds": 3
+      },
+      {
+        "slot_id": "14",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-samandgos-709552.jpg",
+        "image_file": "pexels-samandgos-709552.jpg",
+        "image_hash": "d86412a8cc2792554bd5f718ad2d2a7b9db7f9fcf6338540c29bcb677b4b2781",
+        "duration_seconds": 3
+      },
+      {
+        "slot_id": "15",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-simon73-1323550.jpg",
+        "image_file": "pexels-simon73-1323550.jpg",
+        "image_hash": "4e13dade06b2bffe2974004a8a2541c0598012c7ac79b56876c74aeb0a520ea1",
+        "duration_seconds": 3
+      },
+      {
+        "slot_id": "16",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-souvenirpixels-1534057.jpg",
+        "image_file": "pexels-souvenirpixels-1534057.jpg",
+        "image_hash": "9237a0f505f30c3e5c1903413533420bea88b8b4e0c0834ad08570e90cb53ec6",
+        "duration_seconds": 3
+      },
+      {
+        "slot_id": "17",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-steve-845242.jpg",
+        "image_file": "pexels-steve-845242.jpg",
+        "image_hash": "65aaab835119ed679f25992bae96f6cb3514b154575c9a1110e922ab6e7dbd76",
+        "duration_seconds": 3
+      },
+      {
+        "slot_id": "18",
+        "image_url": "https://vppillai.github.io/testRepo/nature/pexels-wangming-photo-115695-354939.jpg",
+        "image_file": "pexels-wangming-photo-115695-354939.jpg",
+        "image_hash": "229ffca64cfa5fde6eec54e41243e75650c3ece1ed297040016fc1458c749024",
+        "duration_seconds": 3
       }
     ]
   }
