@@ -39,6 +39,16 @@
         "duration_seconds": 3
       },
       {
+        "slot_id": "21",
+        "image_url": "https://vppillai.github.io/testRepo/nature/istockphoto-1307785308-640_adpp_is.mp4",
+        "image_file": "istockphoto-1307785308-640_adpp_is.mp4",
+        "image_hash": "e694f5614b3db3a89e7166548ab08189d56cc27d2ccd99acb3506ab212fdf23e",
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": true,
+        "duration_seconds": 23
+      },
+      {
         "slot_id": "6",
         "image_url": "https://vppillai.github.io/testRepo/nature/pexels-eberhardgross-1624255.jpg",
         "image_file": "pexels-eberhardgross-1624255.jpg",
@@ -74,6 +84,16 @@
         "duration_seconds": 3
       },
       {
+        "slot_id": "19",
+        "image_url": "https://vppillai.github.io/testRepo/nature/istockphoto-481413373-640_adpp_is.mp4",
+        "image_file": "istockphoto-481413373-640_adpp_is.mp4",
+        "image_hash": "c1eac8327374442a8403816e4b4d0415298ae8208df60e3bec7b4e45cecedc09",
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": true,
+        "duration_seconds": 29
+      },
+      {
         "slot_id": "11",
         "image_url": "https://vppillai.github.io/testRepo/nature/pexels-pixabay-358532.jpg",
         "image_file": "pexels-pixabay-358532.jpg",
@@ -102,6 +122,16 @@
         "duration_seconds": 3
       },
       {
+        "slot_id": "20",
+        "image_url": "https://vppillai.github.io/testRepo/nature/istockphoto-994586448-640_adpp_is.mp4",
+        "image_file": "istockphoto-994586448-640_adpp_is.mp4",
+        "image_hash": "8c7ba0607831e2f14f0e3da7c985ca3af97b82656338818b9427d8fdc9bef028",
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": true,
+        "duration_seconds": 39
+      },
+      {
         "slot_id": "15",
         "image_url": "https://vppillai.github.io/testRepo/nature/pexels-simon73-1323550.jpg",
         "image_file": "pexels-simon73-1323550.jpg",
@@ -128,7 +158,17 @@
         "image_file": "pexels-wangming-photo-115695-354939.jpg",
         "image_hash": "229ffca64cfa5fde6eec54e41243e75650c3ece1ed297040016fc1458c749024",
         "duration_seconds": 3
-      }
+      },
+      {
+        "slot_id": "22",
+        "image_url": "https://vppillai.github.io/testRepo/nature/istockphoto-2154929512-640_adpp_is.mp4",
+        "image_file": "istockphoto-2154929512-640_adpp_is.mp4",
+        "image_hash": "bd25f4dddc79b20ac110c8b0b4e874625b520aa6d8c27a128e944f15dff76de4",
+        "video": true,
+        "video_type": "video/mp4",
+        "mute": true,
+        "duration_seconds": 25
+      },
     ]
   }
 }
