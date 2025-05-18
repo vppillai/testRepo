@@ -168,7 +168,7 @@
         "video_type": "video/mp4",
         "mute": true,
         "duration_seconds": 25
-      },
+      }
     ]
   }
 }
